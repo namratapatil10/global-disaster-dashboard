@@ -12,10 +12,15 @@ This project demonstrates the complete Business Intelligence workflow including 
 ## 📌 Key Insights
 
 • Faster response time significantly reduces recovery duration
+
 • Floods are the most frequent disasters, while earthquakes cause higher economic loss
+
 • Certain countries experience high disaster impact but receive comparatively lower aid
+
 • Response efficiency varies significantly across regions
+
 • Higher aid allocation generally improves recovery performance
+
 • Disaster frequency shows an increasing trend in recent years
 
 ## 📂 Step 1: Dataset Overview
