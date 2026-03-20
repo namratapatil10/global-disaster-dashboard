@@ -7,9 +7,7 @@ The objective of this project is to analyze global disaster events from 2018 to 
 
 This project demonstrates the complete Business Intelligence workflow including data cleaning, data modeling, DAX calculations, and professional dashboard design to transform raw disaster data into actionable insights.
 
-🖼 Dashboard Preview
 
-(Add your screenshots here)
 
 ## 📌 Key Insights
 
@@ -244,7 +242,7 @@ This dashboard helps decision-makers to:
 • Insight generation from real-world data
 
 ## 📌 Conclusion
-This project demonstrates the complete Power BI analytics lifecycle—from raw data to actionable insights. It highlights how data analytics can improve disaster response, resource allocation, and recovery planning.
+
 
 
 
